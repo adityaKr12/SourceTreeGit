@@ -1,5 +1,6 @@
 New file ....!!!
 
+<<<<<<< .merge_file_aw1Dd4
 Changes made
 
 Hello
@@ -7,3 +8,6 @@ Hello
 Hello
 Hello
 Hello
+=======
+Keep learning
+>>>>>>> .merge_file_JvC7Ko
