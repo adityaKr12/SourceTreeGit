@@ -1,5 +1,6 @@
 New file ....!!!
 
+<<<<<<< HEAD
 Changes made
 
 Hello
@@ -7,3 +8,6 @@ Hello
 Hello
 Hello
 Hello
+=======
+Keep learning
+>>>>>>> cc9acec (Bugs fixed)
